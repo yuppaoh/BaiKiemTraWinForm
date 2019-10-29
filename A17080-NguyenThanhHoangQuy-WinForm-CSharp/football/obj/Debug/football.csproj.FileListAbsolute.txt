@@ -1,0 +1,13 @@
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.csprojAssemblyReference.cache
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.Form1.resources
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.Properties.Resources.resources
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.csproj.GenerateResource.cache
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.csproj.CoreCompileInputs.cache
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\bin\Debug\Data\footballsrc.mdf
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\bin\Debug\Data\footballsrc_log.ldf
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\bin\Debug\football.exe.config
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\bin\Debug\football.exe
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\bin\Debug\football.pdb
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.exe
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.pdb
+E:\MyProgram\Aptech\Subject\31_Winform\football\football\obj\Debug\football.BangKetQua.resources
